@@ -1,0 +1,21 @@
+{
+  "author": "Hirokazu Miyaji",
+  "name": "hubot-freedomwars",
+  "version": "0.0.1",
+  "description": "freedom wars hubot",
+  "homepage": "https://github.com/HirokazuMiyaji/hubot-freedomwars.git",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HirokazuMiyaji/hubot-freedomwars.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "freedomwars"
+  ],
+  "dependencies": {
+    'htmlparser',
+    'soupselect',
+  }
+}
